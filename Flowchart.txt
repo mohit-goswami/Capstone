@@ -1,0 +1,18 @@
+1.Sql_Capstone
+	cleaned_data-->> data obtained from after clean in python_pyspark file 
+	Normalize Dtabase ->> 
+		1.write data in master table with help of python script
+		2.create a normalize table based on custom sql script
+		3.make a foreign constrains and ER diagram from reverse engineeirng in MySql 
+		4.Normalize database .sql file -->> Final
+	
+	Python fille for database creation ->> script going to write master table in database
+	OueryResult -->> Anwer of all question asked based on master table ans seprate database for this table 
+
+2. Panda and Pyspark Part
+	Raw data - as provided to us
+	IPYNB file - contain anlysis based on panda and pyspark.
+
+SO, Total 2 python file 
+	- 1 for writting in SQL database - pymtsql
+	- 2 for analyis with pyspark and pandas
